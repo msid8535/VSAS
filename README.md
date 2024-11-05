@@ -1,7 +1,14 @@
 # Virtual Scroll Access System (VSAS)
-  Features
-- User: Adding Scrolls, Viewing, Editing, Removing, Previewing, Filtered search
-- Admin: Adding users, Removing users, Viewing Download and Upload Stats
+
+# Background
+The goal of this assignment is to work as a team to develop a software product using the Scrum methodology and Agile development tools and practices.
+
+# Prologue
+In the enchanting realm of Edstemus, a mystical guild of computer science elves known as the 'Whiskers' sought to explore the ancient scrolls of wisdom stored within the Library of Agility. These scrolls, though not made of parchment and ink, were binary files, each containing a trove of digital knowledge. The revered wizard H of the realm of T has tasked some of the best Whiskers with creating a Virtual Scroll Access System (VSAS) to facilitate the retrieval and sharing of these digital scrolls. Your group has been selected for this noble quest.
+
+# Features
+- User: Adding Scrolls, viewing scrolls, editing scrolls, removing scrolls, previewing scrolls, filtered search of scrolls by date, content, name, etc.
+- Admin: Adding users, viewing users, removing users, viewing download and upload Stats
 
 # Version Information
 - Java version: 17
