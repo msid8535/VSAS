@@ -1,5 +1,5 @@
 # Virtual Scroll Access System (VSAS)
-- Features
+  Features
 - User: Adding Scrolls, Viewing, Editing, Removing, Previewing
 - Admin: Adding users, Removing users, Viewing Download and Upload Stats
 
