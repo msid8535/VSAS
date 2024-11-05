@@ -1,4 +1,7 @@
 # Virtual Scroll Access System (VSAS)
+- Features
+- User: Adding Scrolls, Viewing, Editing, Removing, Previewing
+- Admin: Adding users, Removing users, Viewing Download and Upload Stats
 
 # Version Information
 - Java version: 17
