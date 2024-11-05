@@ -1,12 +1,5 @@
 # Virtual Scroll Access System (VSAS)
 
-## Contributors
-### Kylie Lab 12 Group 5
-- Andy Dosan
-- Can Karabacak
-- Josh Berman
-- Mohsin Siddiqui
-
 # Version Information
 - Java version: 17
 - Gradle version: 8.10
